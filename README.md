@@ -1,5 +1,5 @@
 # ATV
-ARES Test Vehicle - original code for surface model
+Autonomous Test Vehicle.
 
 This is the code that used to control an autonomous surface model boat. The boat and associated code was designed to test various control/guidance algorithms 
 using a GPS and an IMU as data sources.
